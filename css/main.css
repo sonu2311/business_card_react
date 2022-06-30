@@ -1,0 +1,52 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: roboto;
+    /*background-image: url(../images/bg1.jpg);*/
+    background-image: url(https://media.istockphoto.com/photos/summer-forest-with-sun-light-nature-background-picture-id1018214882);
+}
+
+.card_field_name {
+    height: 40px;
+    width:  120px;
+    font-weight: 600;
+}
+
+
+.card_field_height {
+    height: 40px;
+}
+
+.card_field_input {
+    width: 200px;
+    box-sizing: border-box;
+    padding: 2px;
+}
+
+.top_card {
+    color:#333;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px #888888;
+    background-color:#fff;
+    text-align: center;
+    /*margin:  10px;*/
+    margin:  20px 0px;
+    padding: 20px;
+    font-size:  30px;
+}
+
+.card {
+    color:#333;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px #888888;
+    background-color:#fff;
+    padding: 10px;
+    width:350px;
+    margin:  auto;
+    margin-bottom:25px;
+}
+
+.card-button {
+    margin: 10px;
+}
